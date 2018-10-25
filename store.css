@@ -31,11 +31,11 @@ img {
 }
 
 p {
-  font-size: 1.125em;
+  font-size: 2em;
 }
 
 p.garment {
-  font-size: 2em;
+  font-size: 5em;
   margin-bottom: 0.25em;
   font-weight: bold;
 }
@@ -57,11 +57,11 @@ table.center {
 }
 
 section.payment {
-  border-width:5px;  
-  border-style:double;
+  border: 5px solid black;
+  font-size: 5em;
   width: 66%;
   display: inline-block;
-  padding: 1em;
+  padding: 0em;
 }
 
 input, select {
