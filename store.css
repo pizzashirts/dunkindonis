@@ -22,6 +22,7 @@ main {
 
 img {
   position: relative;
+    object-fit: contain;
     float: center;
     width:  749px;
     height: 739px;
