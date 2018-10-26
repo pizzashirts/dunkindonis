@@ -102,12 +102,15 @@ label {
         /* MOBILE */
 @media screen and (max-width: 35em) {
   h1 {
-    font-size: .5em;
+    font-size: .25em;
   }
+
+  p {
+  font-size: 1em;
+}
 
   img {
    float: center;
-    object-fit: cover;
     width:  25%;
     height: 25%;
   }
