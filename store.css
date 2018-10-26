@@ -32,6 +32,9 @@ img {
     background-size:     cover;
 }
 
+.donis {
+    }
+
 p {
   font-size: 2em;
 }
@@ -113,6 +116,10 @@ label {
     width:  50%;
     height: 50%;
   }
+  .donis img {
+    width:  50%;
+    height: 50%;
+    }
 
   .signature img {
     width: 100%;
