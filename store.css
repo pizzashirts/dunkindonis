@@ -102,14 +102,14 @@ label {
         /* MOBILE */
 @media screen and (max-width: 35em) {
   h1 {
-    font-size: 2em;
+    font-size: .5em;
   }
 
   img {
    float: center;
     object-fit: cover;
-    width:  749px;
-    height: 739px;
+    width:  25%;
+    height: 25%;
   }
 
   .signature img {
