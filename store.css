@@ -23,8 +23,8 @@ main {
 img {
   position: relative;
     float: center;
-    width:  700px;
-    height: 700px;
+    width:  749px;
+    height: 739px;
     background-position: 50% 50%;
     background-repeat:   no-repeat;
     background-size:     cover;
@@ -106,8 +106,9 @@ label {
   }
 
   img {
-    width: 66%;
-    height: 66%;
+   float: center;
+    width:  749px;
+    height: 739px;
   }
 
   .signature img {
