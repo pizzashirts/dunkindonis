@@ -13,6 +13,7 @@ header {
 }
 
 h1 {
+  text-align: center;
   font-size: 1em;
 }
 
@@ -109,8 +110,8 @@ label {
   img {
    float: center;
     object-fit: contain;
-    width:  25%;
-    height: 25%;
+    width:  50%;
+    height: 50%;
   }
 
   .signature img {
