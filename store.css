@@ -108,6 +108,7 @@ label {
 
   img {
    float: center;
+    object-fit: contain;
     width:  25%;
     height: 25%;
   }
